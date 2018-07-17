@@ -2,6 +2,7 @@
 /*Coded By ./CE.19*/
 /*CopyRight 2k18 Fajar Iwan*/
 /*Don't Remove CopyRight*/
+/*link generate OTP from handika pratama*/
 function crazyerror($cr, $azy){
 $ce = 0;
 while($ce < $azy) {
